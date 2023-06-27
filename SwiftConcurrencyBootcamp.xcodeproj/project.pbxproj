@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		027E7C9727F680B9009B9D4F /* StructClassActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027E7C9627F680B9009B9D4F /* StructClassActorBootcamp.swift */; };
+		02931A7A2A4A64E9001BE6A5 /* MVVMBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02931A752A4A64E9001BE6A5 /* MVVMBootcamp.swift */; };
+		02931A7B2A4A64E9001BE6A5 /* RefreshableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02931A762A4A64E9001BE6A5 /* RefreshableBootcamp.swift */; };
+		02931A7D2A4A64E9001BE6A5 /* PhotoPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02931A782A4A64E9001BE6A5 /* PhotoPickerBootcamp.swift */; };
+		02931A7E2A4A64E9001BE6A5 /* SearchableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02931A792A4A64E9001BE6A5 /* SearchableBootcamp.swift */; };
+		02931A7F2A4A65EA001BE6A5 /* StrongSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02931A772A4A64E9001BE6A5 /* StrongSelfBootcamp.swift */; };
 		02AF489D27FBC3E600D67D2F /* ActorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AF489C27FBC3E600D67D2F /* ActorsBootcamp.swift */; };
 		02AF489F27FBCFFB00D67D2F /* GlobalActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AF489E27FBCFFB00D67D2F /* GlobalActorBootcamp.swift */; };
 		02AF48A127FBDD8800D67D2F /* SendableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AF48A027FBDD8800D67D2F /* SendableBootcamp.swift */; };
@@ -26,6 +31,11 @@
 
 /* Begin PBXFileReference section */
 		027E7C9627F680B9009B9D4F /* StructClassActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootcamp.swift; sourceTree = "<group>"; };
+		02931A752A4A64E9001BE6A5 /* MVVMBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MVVMBootcamp.swift; sourceTree = "<group>"; };
+		02931A762A4A64E9001BE6A5 /* RefreshableBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RefreshableBootcamp.swift; sourceTree = "<group>"; };
+		02931A772A4A64E9001BE6A5 /* StrongSelfBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StrongSelfBootcamp.swift; sourceTree = "<group>"; };
+		02931A782A4A64E9001BE6A5 /* PhotoPickerBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoPickerBootcamp.swift; sourceTree = "<group>"; };
+		02931A792A4A64E9001BE6A5 /* SearchableBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchableBootcamp.swift; sourceTree = "<group>"; };
 		02AF489C27FBC3E600D67D2F /* ActorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootcamp.swift; sourceTree = "<group>"; };
 		02AF489E27FBCFFB00D67D2F /* GlobalActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBootcamp.swift; sourceTree = "<group>"; };
 		02AF48A027FBDD8800D67D2F /* SendableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableBootcamp.swift; sourceTree = "<group>"; };
@@ -86,6 +96,11 @@
 				02AF489E27FBCFFB00D67D2F /* GlobalActorBootcamp.swift */,
 				02AF48A027FBDD8800D67D2F /* SendableBootcamp.swift */,
 				02AF48A227FBE2EC00D67D2F /* AsyncPublisherBootcamp.swift */,
+				02931A772A4A64E9001BE6A5 /* StrongSelfBootcamp.swift */,
+				02931A752A4A64E9001BE6A5 /* MVVMBootcamp.swift */,
+				02931A782A4A64E9001BE6A5 /* PhotoPickerBootcamp.swift */,
+				02931A762A4A64E9001BE6A5 /* RefreshableBootcamp.swift */,
+				02931A792A4A64E9001BE6A5 /* SearchableBootcamp.swift */,
 				02F3AC1627E94E9100DBD20C /* Assets.xcassets */,
 				02F3AC1827E94E9100DBD20C /* Preview Content */,
 			);
@@ -174,6 +189,7 @@
 				02F3AC2127E94EC100DBD20C /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				02AF48A127FBDD8800D67D2F /* SendableBootcamp.swift in Sources */,
 				02AF489D27FBC3E600D67D2F /* ActorsBootcamp.swift in Sources */,
+				02931A7A2A4A64E9001BE6A5 /* MVVMBootcamp.swift in Sources */,
 				02F3AC2D27EAAC8E00DBD20C /* CheckedContinuationBootcamp.swift in Sources */,
 				027E7C9727F680B9009B9D4F /* StructClassActorBootcamp.swift in Sources */,
 				02F3AC2727E96CD200DBD20C /* TaskBootcamp.swift in Sources */,
@@ -181,8 +197,12 @@
 				02F3AC2527E9617900DBD20C /* AsyncAwaitBootcamp.swift in Sources */,
 				02AF48A327FBE2EC00D67D2F /* AsyncPublisherBootcamp.swift in Sources */,
 				02F3AC1327E94E8F00DBD20C /* SwiftConcurrencyBootcampApp.swift in Sources */,
+				02931A7E2A4A64E9001BE6A5 /* SearchableBootcamp.swift in Sources */,
+				02931A7F2A4A65EA001BE6A5 /* StrongSelfBootcamp.swift in Sources */,
 				02F3AC2927EA96B200DBD20C /* AsyncLetBootcamp.swift in Sources */,
 				02F3AC2B27EAA19200DBD20C /* TaskGroupBootcamp.swift in Sources */,
+				02931A7D2A4A64E9001BE6A5 /* PhotoPickerBootcamp.swift in Sources */,
+				02931A7B2A4A64E9001BE6A5 /* RefreshableBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,6 +341,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -350,6 +371,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
